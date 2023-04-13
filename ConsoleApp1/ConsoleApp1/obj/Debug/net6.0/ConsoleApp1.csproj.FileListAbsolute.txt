@@ -1,0 +1,15 @@
+\\zstsrv\Simlat.Michal$$\desktop\Nowy folder\ConsoleApp1\ConsoleApp1\bin\Debug\net6.0\ConsoleApp1.exe
+\\zstsrv\Simlat.Michal$$\desktop\Nowy folder\ConsoleApp1\ConsoleApp1\bin\Debug\net6.0\ConsoleApp1.deps.json
+\\zstsrv\Simlat.Michal$$\desktop\Nowy folder\ConsoleApp1\ConsoleApp1\bin\Debug\net6.0\ConsoleApp1.runtimeconfig.json
+\\zstsrv\Simlat.Michal$$\desktop\Nowy folder\ConsoleApp1\ConsoleApp1\bin\Debug\net6.0\ConsoleApp1.dll
+\\zstsrv\Simlat.Michal$$\desktop\Nowy folder\ConsoleApp1\ConsoleApp1\bin\Debug\net6.0\ConsoleApp1.pdb
+\\zstsrv\Simlat.Michal$$\desktop\Nowy folder\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\ConsoleApp1.csproj.AssemblyReference.cache
+\\zstsrv\Simlat.Michal$$\desktop\Nowy folder\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\ConsoleApp1.GeneratedMSBuildEditorConfig.editorconfig
+\\zstsrv\Simlat.Michal$$\desktop\Nowy folder\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\ConsoleApp1.AssemblyInfoInputs.cache
+\\zstsrv\Simlat.Michal$$\desktop\Nowy folder\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\ConsoleApp1.AssemblyInfo.cs
+\\zstsrv\Simlat.Michal$$\desktop\Nowy folder\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\ConsoleApp1.csproj.CoreCompileInputs.cache
+\\zstsrv\Simlat.Michal$$\desktop\Nowy folder\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\ConsoleApp1.dll
+\\zstsrv\Simlat.Michal$$\desktop\Nowy folder\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\refint\ConsoleApp1.dll
+\\zstsrv\Simlat.Michal$$\desktop\Nowy folder\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\ConsoleApp1.pdb
+\\zstsrv\Simlat.Michal$$\desktop\Nowy folder\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\ConsoleApp1.genruntimeconfig.cache
+\\zstsrv\Simlat.Michal$$\desktop\Nowy folder\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\ref\ConsoleApp1.dll
